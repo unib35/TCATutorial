@@ -1,0 +1,35 @@
+# Swift 관련
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata/
+*.playground
+*.playgroundbook
+.DS_Store
+*.swp
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# 로그 파일 및 임시 파일
+*.log
+*.tmp
+
+# macOS 관련
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.DS_Store
+*.swp
+
+# 테스트 결과
+*.xcresult
+
+# Coverage
+*.gcno
+*.gcda
+*.gcov
+coverage.*
